@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Hello World (Your grandmother was right)
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+# Starting is rarely what people have problem with. Unless you are writing. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I went 6 articles deep today. Tim Urban likes to recount the days where he is meaning to be productive and instead goes on a wikipedia spree starting at the Bosten tea party and ending (at 4:55pm) with the cultural effects of the introduction of Freudian psychology on 20th century Austrians.  
