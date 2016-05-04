@@ -1,3 +1,7 @@
+---
+layout: post
+title: I hit record
+---
 ##About 20s ago I hit record
 
 My camera is standing 6ft from me perched on the window sill of my basement office — and I can feel its blinking red eye.
